@@ -1,44 +1,31 @@
-# Ignore list for Eagle, a PCB layout tool
+# Created by https://www.gitignore.io/api/macos
 
-# Backup files
-*.s#?
-*.b#?
-*.l#?
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
-eagle.epf
+# Icon must end with two \r
+Icon
 
-# Autorouter files
-*.pro
-*.job
+# Thumbnails
+._*
 
-# CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-*.dri
-*.drl
-*.gpi
-*.pls
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-*.drd
-*.drd.*
 
-*.info
-
-*.eps
-
-# file locks introduced since 7.x
-*.lck
-
+# End of https://www.gitignore.io/api/macos
