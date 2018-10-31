@@ -73,3 +73,10 @@ swift
 * [Algorithms](https://algs4.cs.princeton.edu/home/)
 
 
+## 学习Repo
+
+### 持续化集成 
+
+- [AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS)  iOS自动打包脚本 多项选择 一行上传指定位置
+
+
