@@ -81,6 +81,14 @@ swift
 
 - [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet. 卡片效果
 
+### 图片
+
+- [CLImageEditor](https://github.com/yackle/CLImageEditor) 图片编辑示例
+
+
+### 视频
+
+
 ### 打点统计
 
 - [HLJStatistical](https://github.com/BulletWu/HLJStatistical) 曝光统计
