@@ -97,6 +97,7 @@ swift
 卡片效果
 
 - [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet. 卡片效果
+- [EBCardCollectionViewLayout](https://github.com/betzerra/EBCardCollectionViewLayout) 卡片中间悬浮
 
 ### 图片
 
