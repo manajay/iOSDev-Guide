@@ -59,6 +59,8 @@ swift
 
 #### 开源应用 
 
+- [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) shadowsocks-iOS 
+
 #### 高仿应用 
 
 - [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) 仿 bilibili- iOS
