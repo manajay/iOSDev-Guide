@@ -60,6 +60,8 @@ swift
 #### 开源应用 
 
 - [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) shadowsocks-iOS 
+- [MarkLite](https://github.com/zhubinchen/MarkLite) An elegant markdown editor implement with swift
+
 
 #### 高仿应用 
 
@@ -91,7 +93,7 @@ swift
 
 ## 学习Repo
 
-### 源码
+### 源码学习
 
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy)  Facebook开源的Parse源码分析【系列】 by 陈奕龙
 
