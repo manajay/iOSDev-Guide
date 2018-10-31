@@ -75,6 +75,12 @@ swift
 
 ## 学习Repo
 
+### UI 
+
+卡片效果
+
+- [HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout) The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet. 卡片效果
+
 ### 持续化集成 
 
 - [AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS)  iOS自动打包脚本 多项选择 一行上传指定位置
