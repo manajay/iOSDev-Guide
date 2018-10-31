@@ -110,4 +110,5 @@ swift
 - [packaging](https://github.com/jenkinsci/packaging)  Native packaging for Jenkins 
 - [autoComplie](https://github.com/housenkui/autoComplie) ios自动打包生成ipa到桌面 傻瓜版本
 - [Fastfiles](https://github.com/thierryxing/Fastfiles)  各个Fastfiles打包示例
+- [xcconfigs](https://github.com/jspahrsummers/xcconfigs) xcconfigs 项目配置文件模板
 
