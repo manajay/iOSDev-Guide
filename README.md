@@ -79,4 +79,6 @@ swift
 
 - [AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS)  iOS自动打包脚本 多项选择 一行上传指定位置
 - [packaging](https://github.com/jenkinsci/packaging)  Native packaging for Jenkins 
+- [autoComplie](https://github.com/housenkui/autoComplie) ios自动打包生成ipa到桌面 傻瓜版本
+
 
