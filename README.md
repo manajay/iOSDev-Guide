@@ -118,6 +118,10 @@ swift
 - [NSURLProtocolExample](https://github.com/rmls/NSURLProtocolExample) NSURLProtocolExample 学习
 - [NSEtcHosts](https://github.com/mattt/NSEtcHosts) /etc/hosts with NSURLProtocol
 
+### 应用崩溃保护
+
+- [GYBootingProtection](https://github.com/liuslevis/GYBootingProtection) A tool for detecting and repairting continuous launch crash of iOS App
+
 
 ### 打点统计
 
