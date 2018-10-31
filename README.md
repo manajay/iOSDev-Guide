@@ -85,6 +85,9 @@ swift
 
 - [CLImageEditor](https://github.com/yackle/CLImageEditor) 图片编辑示例
 
+### 视频播放
+
+- [SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer) 视频播放器
 
 ### 下载
 
