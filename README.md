@@ -1,7 +1,7 @@
 # iOSDev-Guide
 iOS学习指引
 
-### 常看的博客
+## 常看的博客
 
 * [NSHipster](http://nshipster.com/)
 * [一缕殇流化隐半边冰霜](https://halfrost.com/)
@@ -35,7 +35,7 @@ iOS学习指引
 * [HowToDoInJava](https://howtodoinjava.com/)
 
 
-### 学习网站
+## 学习网站
 
 * [objc.io](https://www.objc.io/)
 * [raywenderlich](https://www.raywenderlich.com/)
@@ -57,7 +57,7 @@ swift
 * [code4app](http://www.code4app.com/)
 * [开源中国](https://www.oschina.net/project/)
 
-### 面试
+## 面试
 
 * [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
 * [Java面试](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
@@ -72,6 +72,9 @@ swift
 * [Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m16/www/index.html)
 * [Algorithms](https://algs4.cs.princeton.edu/home/)
 
+## 工具
+
+- [iOS-DeviceSuppor](https://github.com/iGhibli/iOS-DeviceSupport) 真机支持
 
 ## 学习Repo
 
