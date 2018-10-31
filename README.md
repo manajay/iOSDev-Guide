@@ -108,10 +108,11 @@ swift
 
 - [CLImageEditor](https://github.com/yackle/CLImageEditor) 图片编辑示例
 
-### 视频播放
+### 音视频播放
 
 - [SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer) 视频播放器
 - [NEPlyaer](https://github.com/yushengchu/NEPlyaer) 基于网易直播播放器SDK-NEPlyaer实现的类似斗鱼退出直播详情页创建悬浮播放器的功能
+- [VideoGather](https://github.com/FindCrt/VideoGather)
 
 ### 下载
 
