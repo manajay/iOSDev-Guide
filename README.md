@@ -57,6 +57,16 @@ swift
 * [code4app](http://www.code4app.com/)
 * [开源中国](https://www.oschina.net/project/)
 
+#### 开源应用 
+
+#### 高仿应用 
+
+- [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) 仿 bilibili- iOS
+
+#### 学习项目
+
+- [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) Swift-30-Projects 
+
 ## 面试
 
 * [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
@@ -95,6 +105,7 @@ swift
 ### 视频播放
 
 - [SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer) 视频播放器
+- [NEPlyaer](https://github.com/yushengchu/NEPlyaer) 基于网易直播播放器SDK-NEPlyaer实现的类似斗鱼退出直播详情页创建悬浮播放器的功能
 
 ### 下载
 
