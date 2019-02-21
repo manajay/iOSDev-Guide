@@ -161,6 +161,11 @@ swift
 
 ## 计算机原理
 
+### 学习视频
+
+- [Software-security 来自coursera](https://www.coursera.org/learn/software-security)
+
+
 ## 数据结构与算法
 
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
