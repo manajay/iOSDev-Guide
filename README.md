@@ -101,6 +101,10 @@ swift
 
 - [iOS-DeviceSuppor](https://github.com/iGhibli/iOS-DeviceSupport) 真机支持
 
+## 环境
+
+- [Xcode10 废弃 libstdc++ 包环境](https://github.com/devdawei/libstdc-.git)
+
 ## 学习Repo
 
 ### 源码学习
