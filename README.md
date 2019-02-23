@@ -175,3 +175,6 @@ swift
 
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 
+## 其他语言
+
+- [Python 学习示例](https://github.com/geekcomputers/Python)
