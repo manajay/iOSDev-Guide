@@ -104,6 +104,7 @@ swift
 ## 环境
 
 - [Xcode10 废弃 libstdc++ 包环境](https://github.com/devdawei/libstdc-.git)
+- [macbootstrap: A bootstrap script for new Mac](https://github.com/bestswifter/macbootstrap)
 
 ## 学习Repo
 
