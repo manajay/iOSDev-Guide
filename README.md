@@ -170,10 +170,13 @@ swift
 
 - [Software-security 来自coursera](https://www.coursera.org/learn/software-security)
 
-
 ## 数据结构与算法
 
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
+
+## 设计模式 
+
+- [pro-objective-c-design-patterns-for-ios](https://github.com/Apress/pro-objective-c-design-patterns-for-ios)
 
 ## 其他语言
 
