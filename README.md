@@ -38,7 +38,6 @@ iOS学习指引
 * [并发编程网](http://ifeve.com/)
 * [HowToDoInJava](https://howtodoinjava.com/)
 
-
 ## 学习网站
 
 ### 常去
@@ -54,6 +53,10 @@ iOS学习指引
 * [sqlite in swift](http://www.theappguruz.com/blog/use-sqlite-database-swift)
 * [iosre 逆向](http://bbs.iosre.com/)
 * [objc中国](https://objccn.io/)
+
+## 书籍
+
+- [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 
 ### 代码示例
 
@@ -71,7 +74,6 @@ swift
 
 - [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) shadowsocks-iOS 
 - [MarkLite](https://github.com/zhubinchen/MarkLite) An elegant markdown editor implement with swift
-
 
 #### 高仿应用 
 
@@ -91,11 +93,6 @@ swift
 
 * [Color in Material Design](https://material.io/guidelines/style/color.html#color-color-palette)
 * [designcode](https://v1.designcode.io/iosdesign)
-
-### 计算机
-
-* [Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m16/www/index.html)
-* [Algorithms](https://algs4.cs.princeton.edu/home/)
 
 ## 工具
 
@@ -169,6 +166,9 @@ swift
 ### 学习视频
 
 - [Software-security 来自coursera](https://www.coursera.org/learn/software-security)
+* [Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m16/www/index.html)
+* [Algorithms](https://algs4.cs.princeton.edu/home/)
+
 
 ## 数据结构与算法
 
