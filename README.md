@@ -43,6 +43,8 @@ iOS学习指引
 ### 常去
 * [raywenderlich](https://www.raywenderlich.com/)
 * [objc.io](https://www.objc.io/)
+* [awesome-ios](https://github.com/vsouza/awesome-ios)
+* [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
 
 -----
 
