@@ -4,7 +4,13 @@ import lldb
 import sys
 import os
 
+# Global Const
 WoodPeckerSupportDirectory = os.path.expanduser("~/Documents/WoodPecker")
+
+# Entry point
+def __lldb_init_module(debugger, internal_dict):
+    # Install command
+    debugger.HandleCommand("command script add -f woodpecker.doload woodpecker")
 
 def localWoodPeckerServerBinaryPath():
         return os.path.join(WoodPeckerSupportDirectory, "WoodPeckeriOS.framework/WoodPeckeriOS")
