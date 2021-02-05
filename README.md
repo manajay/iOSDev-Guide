@@ -113,7 +113,12 @@ swift
 - [objc4/LGCooci](https://github.com/LGCooci/objc4) objc 的版本有 objc4-750/objc4-756.2/libmalloc 不过目前在 Mac OS 10.15.6 运行不起来了
 - [objc4/0xxd0](https://github.com/0xxd0/objc4) 该版本目前在 Mac OS 10.15.6 可以正常运行
 - [objc-runtime/RetVal](https://github.com/RetVal/objc-runtime) 该版本目前在 Mac OS 10.15.6 可以正常运行
+- [dyld_shared_cache_ida](https://github.com/everettjf/dyld_shared_cache_ida) 汇编相关源码研究推荐
  
+### UI 源码
+- [QMUI_iOS](https://github.com/Tencent/QMUI_iOS)
+- 
+
 ### 图片
 
 - [CLImageEditor](https://github.com/yackle/CLImageEditor) 图片编辑示例
@@ -132,11 +137,14 @@ swift
 ### 应用崩溃保护
 
 - [GYBootingProtection](https://github.com/liuslevis/GYBootingProtection) A tool for detecting and repairting continuous launch crash of iOS App
+- [NeverCrash](https://github.com/jseanj/NeverCrash)
 
 ### 组件化
 
 - [bigkeeper](https://github.com/eleme/bigkeeper) Efficiency improvement for iOS&Android modular development.
 
+### 网络
+- [GCDWebServer](https://github.com/swisspol/GCDWebServer)
 
 ### 打点统计
 
@@ -144,6 +152,19 @@ swift
 
 ### 性能监控
 - [MoonLight](https://github.com/AgoraIO-Community/MoonLight)
+- [AppleTrace](https://github.com/everettjf/AppleTrace)
+
+### 调试工具
+- [MTHawkeye](https://github.com/meitu/MTHawkeye)
+- [FLEX](https://github.com/FLEXTool/FLEX)
+
+### 热更新
+- [TTPatch](https://github.com/yangyangFeng/TTPatch)
+- [WasmPatch](https://github.com/everettjf/WasmPatch)
+- https://juejin.cn/post/6884833291740905480#heading-30
+
+### 混淆
+- [confuse](https://github.com/520coding/confuse)
 
 ### App 架构
 
