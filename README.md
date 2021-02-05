@@ -161,7 +161,8 @@ swift
 ### 热更新
 - [TTPatch](https://github.com/yangyangFeng/TTPatch)
 - [WasmPatch](https://github.com/everettjf/WasmPatch)
-- https://juejin.cn/post/6884833291740905480#heading-30
+- [OCPack](https://juejin.cn/post/6884833291740905480#heading-30)
+- [OCRunner](https://github.com/SilverFruity/OCRunner)
 
 ### 混淆
 - [confuse](https://github.com/520coding/confuse)
