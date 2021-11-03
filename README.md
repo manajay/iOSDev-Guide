@@ -99,6 +99,14 @@ swift
 ## 工具
 
 - [iOS-DeviceSuppor](https://github.com/iGhibli/iOS-DeviceSupport) 真机支持
+- [ios-developer-tools](https://github.com/LeoMobileDeveloper/ios-developer-tools) 收集 iOS 工具的库
+- [spy-debugger](https://github.com/wuchangming/spy-debugger)  webview 调试
+- [MTHawkeye](https://github.com/meitu/MTHawkeye)
+- [FLEX](https://github.com/FLEXTool/FLEX)
+- [SYM](https://github.com/zqqf16/SYM)  符号解析工具
+- [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) 快捷逆向工具
+- [mbox](https://github.com/MBoxPlus/mbox) 字节移动端 iOS构建工具栏
+- [woodpecker-ios](https://github.com/appwoodpecker/woodpecker-ios) Mac 端 iOS 调试工具, 对比 移动端的FLEX
 
 ## 环境
 
@@ -153,10 +161,6 @@ swift
 ### 性能监控
 - [MoonLight](https://github.com/AgoraIO-Community/MoonLight)
 - [AppleTrace](https://github.com/everettjf/AppleTrace)
-
-### 调试工具
-- [MTHawkeye](https://github.com/meitu/MTHawkeye)
-- [FLEX](https://github.com/FLEXTool/FLEX)
 
 ### 热更新
 - [TTPatch](https://github.com/yangyangFeng/TTPatch)
