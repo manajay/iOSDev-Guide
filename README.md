@@ -118,9 +118,10 @@ swift
 ### 源码学习
 
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy)  Facebook开源的Parse源码分析【系列】 by 陈奕龙
-- [objc4/LGCooci](https://github.com/LGCooci/objc4) objc 的版本有 objc4-750/objc4-756.2/libmalloc 不过目前在 Mac OS 10.15.6 运行不起来了
+- [KCCbjc4_debug](https://github.com/LGCooci/KCCbjc4_debug/) objc 的版本有 objc4-750/objc4-756.2/libmalloc  最新适配 objc4-818.2 版本 在 Mac OS 12 运行不起来
 - [objc4/0xxd0](https://github.com/0xxd0/objc4) 该版本目前在 Mac OS 10.15.6 可以正常运行
 - [objc-runtime/RetVal](https://github.com/RetVal/objc-runtime) 该版本目前在 Mac OS 10.15.6 可以正常运行
+- [DebugObjc4](https://github.com/luokeluo/DebugObjc4) 使用 objc4-838 版本, 在 Mac OS 12 可以正常运行
 - [dyld_shared_cache_ida](https://github.com/everettjf/dyld_shared_cache_ida) 汇编相关源码研究推荐
  
 ### UI 源码
